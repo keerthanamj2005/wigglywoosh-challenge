@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Dataset files
+*.mp4
+*.csv
+
+# Generated output
+*.json
+
+# Python cache
+__pycache__/
+
+# Experimental and backup files
+run_pipeline_backup.py
+run_pipeline_v2.py
+
+# Test files
+test_video.py
+test_mobilenet.py
+preview_video.py
+explore_imu.py
